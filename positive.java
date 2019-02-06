@@ -1,5 +1,5 @@
-/* package whatever; // don't place package name! */
-
+import java.io*;
+import java.lang*;/* package whatever; // don't place package name! */
 import java.util.Scanner;
  class ideone
 {
