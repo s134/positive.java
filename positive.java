@@ -18,9 +18,6 @@ import java.util.Scanner;
         {
             System.out.println("negative number");
         }
-        else
-        {
-            System.out.println( "neither positive nor negative");
-        }
+        
     }
 }
